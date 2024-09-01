@@ -7,7 +7,7 @@ This project demonstrates how to deploy a Dynamic App with Kubernetes and AWS EK
 
 
 ## Reference Diagram
-![Reference Diagram](images/Deploy-a-Dynamic-Web-App-on-AWS-with-Docker-ECR-ECS-GitHub-Actions.png)
+![Reference Diagram](images/deploy-a-dynamic-app-with-k8s-and-aws-eks.png)
 
 ## Project Components
 
